@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: rgb(255, 220, 234);
+    background-image: url(./img/fondo-pagina.jpg);
+    background-repeat: no-repeat;
+
+    #header {
+        line-height: 80px;
+        text-align: center;
+        border-bottom: 2px solid rgb(29, 29, 29);
+     background-color: rgb(245, 232, 237);
+     width: 1400px;
+     height: 80px;
+    }
+    #container {
+        
+        #box {
+            .box {
+                width: 500px;
+                height: 540px;
+                background-color: transparent;
+                margin-left: 855px;
+                margin-top: 220px;
+                margin-bottom: 400px;
+        }
+    }
+ }
+ }
